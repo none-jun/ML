@@ -1,6 +1,11 @@
 # SKN15-2nd-2Team
 
 # 1. 팀 소개
+
+![image](https://github.com/user-attachments/assets/5e7776ec-9008-42ca-ace1-d4c66b7e3fc1)
+이준원 @none-jun  팀장
+
+
 ![image](https://github.com/user-attachments/assets/f95ddcc3-dfa5-4a9d-b67b-755e12576056)
 권혜성 @kwonpatrickstar  데이터 전처리 및 머신러닝 모델 개발자
 
@@ -9,16 +14,12 @@
 노건우 @asdg441  머신러닝 모델 개발자
 
 
-![image](https://github.com/user-attachments/assets/5e7776ec-9008-42ca-ace1-d4c66b7e3fc1)
-이준원 @none-jun  데이터 전처리 및 머신러닝 모델 개발자
-
-
 ![image](https://github.com/user-attachments/assets/ca1bf9b8-e749-4ec6-8fb6-f0da5a33ede2)
-최민석 @Minseok1014 데이터 전처리 및 EDA
+최민석 @Minseok1014  데이터 전처리 및 EDA
 
 
 ![image](https://github.com/user-attachments/assets/a0f4ac80-eb2e-48f9-a472-1de299eec9eb)
-하다현 @dahyun11 데이터 전처리 및 EDA
+하다현 @dahyun11  데이터 전처리 및 EDA
 
 
 # 2. 프로젝트 기간
@@ -71,36 +72,6 @@
 - ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 - ![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?logo=scikitlearn&logoColor=white)
-
-
-1. 프로그래밍 언어
-
-Python: 데이터 분석과 머신러닝의 표준 언어로, 데이터 전처리, 모델링, 평가 등 전 과정에 활용.
-
-
-2. 데이터 분석 및 머신러닝 라이브러리
-
-Pandas, NumPy: 데이터 처리 및 수치 연산
-
-Scikit-learn: 머신러닝 모델 구현 및 평가
-
-Matplotlib, Seaborn: 데이터 시각화
-
-XGBoost, LightGBM: 고성능 부스팅 계열 모델링
-
-3. 개발 및 실험 환경
-
-VScode: 실험 및 코드 공유, 분석 결과 리포팅
-
-4. 데이터 및 파일 관리
-
-CSV 데이터 파일 포맷
-
-Git: 코드 버전 관리 및 협업
-
-5. 기타 활용 가능 도구
-
-TensorFlow, PyTorch: 심화 모델링 시 활용 가능
 
 
 # 5. 수행결과(분석 및 예측 결과)
