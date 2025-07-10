@@ -69,7 +69,7 @@
 - ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 - ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-- ![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?logo=github&logoColor=white)
+- ![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?logo=scikitlearn&logoColor=white)
 1. 프로그래밍 언어
 Python: 데이터 분석과 머신러닝의 표준 언어로, 데이터 전처리, 모델링, 평가 등 전 과정에 활용.
 
