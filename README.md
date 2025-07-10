@@ -71,9 +71,12 @@
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 - ![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?logo=scikitlearn&logoColor=white)
 1. 프로그래밍 언어
+
 Python: 데이터 분석과 머신러닝의 표준 언어로, 데이터 전처리, 모델링, 평가 등 전 과정에 활용.
 
+
 2. 데이터 분석 및 머신러닝 라이브러리
+
 Pandas, NumPy: 데이터 처리 및 수치 연산
 
 Scikit-learn: 머신러닝 모델 구현 및 평가
@@ -83,14 +86,17 @@ Matplotlib, Seaborn: 데이터 시각화
 XGBoost, LightGBM: 고성능 부스팅 계열 모델링
 
 3. 개발 및 실험 환경
+
 VScode: 실험 및 코드 공유, 분석 결과 리포팅
 
 4. 데이터 및 파일 관리
+
 CSV 데이터 파일 포맷
 
 Git: 코드 버전 관리 및 협업
 
 5. 기타 활용 가능 도구
+
 TensorFlow, PyTorch: 심화 모델링 시 활용 가능
 
 
