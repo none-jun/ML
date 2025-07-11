@@ -8,7 +8,7 @@
 
 
 ![image](https://github.com/user-attachments/assets/f95ddcc3-dfa5-4a9d-b67b-755e12576056)
-<img width="70" height="50" alt="Image" src=""https://github.com/user-attachments/assets/f4fba3f1-745c-43d7-afb1-0c78a1bcfd9d" />
+<img width="70" height="50" alt="Image" src="https://github.com/user-attachments/assets/f4fba3f1-745c-43d7-afb1-0c78a1bcfd9d" />
 권혜성 @kwonpatrickstar  데이터 전처리 및 프로젝트 진행 상황 정리
 
 
