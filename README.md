@@ -81,6 +81,7 @@
 
 
 # 5. 수행결과(분석 및 예측 결과)
+![result_img](https://github.com/user-attachments/assets/11eb8766-807f-4256-8a53-43ab57a679c6)
 
 
 
