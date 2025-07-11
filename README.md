@@ -3,6 +3,8 @@
 # 1. 팀 소개
 
 ![image](https://github.com/user-attachments/assets/5e7776ec-9008-42ca-ace1-d4c66b7e3fc1)
+
+![Uploading image.png…]()
 이준원 @none-jun  팀장
 
 
