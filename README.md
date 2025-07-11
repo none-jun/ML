@@ -11,7 +11,7 @@
 
 
 ![image](https://github.com/user-attachments/assets/bcb238d6-c996-4f13-a597-61d3e3598995)
-노건우 @asdg441  머신러닝 모델 개발자
+노건우 @asdg441  스트림릿 구현 및 머신러닝 모델 개발자
 
 
 ![image](https://github.com/user-attachments/assets/ca1bf9b8-e749-4ec6-8fb6-f0da5a33ede2)
