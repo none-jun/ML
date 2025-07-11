@@ -8,18 +8,22 @@
 
 
 ![image](https://github.com/user-attachments/assets/f95ddcc3-dfa5-4a9d-b67b-755e12576056)
+<img width="70" height="50" alt="Image" src=""https://github.com/user-attachments/assets/f4fba3f1-745c-43d7-afb1-0c78a1bcfd9d" />
 권혜성 @kwonpatrickstar  데이터 전처리 및 프로젝트 진행 상황 정리
 
 
 ![image](https://github.com/user-attachments/assets/bcb238d6-c996-4f13-a597-61d3e3598995)
+<img width="70" height="50" alt="Image" src="https://github.com/user-attachments/assets/80ef6cd3-45e3-40c6-8909-0b9902857c2f" />
 노건우 @asdg441  스트림릿 구현 및 머신러닝 모델 개발자
 
 
 ![image](https://github.com/user-attachments/assets/ca1bf9b8-e749-4ec6-8fb6-f0da5a33ede2)
+<img width="70" height="50" alt="Image" src="https://github.com/user-attachments/assets/9e5147a7-57f7-402e-b5d9-331a2c67977b" />
 최민석 @Minseok1014  데이터 전처리 및 데이터 시각
 
 
 ![image](https://github.com/user-attachments/assets/a0f4ac80-eb2e-48f9-a472-1de299eec9eb)
+<img width="70" height="50" alt="Image" src="https://github.com/user-attachments/assets/b3e73cb3-4f0a-40fb-9fb5-ca6663613544" />
 하다현 @dahyun11  데이터 전처리 및 데이터 시각화
 
 
