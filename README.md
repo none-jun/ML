@@ -25,7 +25,8 @@
 ![image](https://github.com/user-attachments/assets/a0f4ac80-eb2e-48f9-a472-1de299eec9eb)
 <img width="70" height="50" alt="Image" src="https://github.com/user-attachments/assets/b3e73cb3-4f0a-40fb-9fb5-ca6663613544" />
 하다현 @dahyun11  데이터 전처리 및 데이터 시각화
-![Uploading image.png…]()
+
+<img width="723" height="209" alt="스크린샷 2025-07-11 173423" src="https://github.com/user-attachments/assets/0181d398-d231-42d6-8add-f7dfa30c571f" />
 
 
 # 2. 프로젝트 기간
