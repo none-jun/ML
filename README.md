@@ -5,11 +5,11 @@
 ![image](https://github.com/user-attachments/assets/5e7776ec-9008-42ca-ace1-d4c66b7e3fc1)
 
 ![Uploading image.png…]()
-이준원 @none-jun  팀장
+이준원 @none-jun  팀 리더 데이터 전처리 및 머신러닝 모델 개발자자
 
 
 ![image](https://github.com/user-attachments/assets/f95ddcc3-dfa5-4a9d-b67b-755e12576056)
-권혜성 @kwonpatrickstar  데이터 전처리 및 머신러닝 모델 개발자
+권혜성 @kwonpatrickstar  데이터 전처리 및 프로젝트 진행 상황 정리
 
 
 ![image](https://github.com/user-attachments/assets/bcb238d6-c996-4f13-a597-61d3e3598995)
@@ -17,11 +17,11 @@
 
 
 ![image](https://github.com/user-attachments/assets/ca1bf9b8-e749-4ec6-8fb6-f0da5a33ede2)
-최민석 @Minseok1014  데이터 전처리 및 EDA
+최민석 @Minseok1014  데이터 전처리 및 데이터 시각
 
 
 ![image](https://github.com/user-attachments/assets/a0f4ac80-eb2e-48f9-a472-1de299eec9eb)
-하다현 @dahyun11  데이터 전처리 및 EDA
+하다현 @dahyun11  데이터 전처리 및 데이터 시각화
 
 
 # 2. 프로젝트 기간
