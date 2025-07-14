@@ -3,7 +3,7 @@
 # 1. 팀 소개
 
 <img width="70" height="50" alt="Image" src="https://github.com/user-attachments/assets/47e34638-b550-4bfc-b4ac-dc3ea8251a30" />
-이준원 [@none-jun](https://github.com/none-jun)<br>
+이준원 ([@none-jun] https://github.com/none-jun)<br>
 팀 리더 / 데이터 전처리 및 머신러닝 모델 개발자<br><br>
 
 <img width="70" height="50" alt="Image" src="https://github.com/user-attachments/assets/f4fba3f1-745c-43d7-afb1-0c78a1bcfd9d" />
