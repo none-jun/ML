@@ -19,7 +19,7 @@
 
 ![image](https://github.com/user-attachments/assets/ca1bf9b8-e749-4ec6-8fb6-f0da5a33ede2)
 <img width="70" height="50" alt="Image" src="https://github.com/user-attachments/assets/9e5147a7-57f7-402e-b5d9-331a2c67977b" />
-최민석 [@Minseok1014](https://github.com/Minseok1014) 데이터 전처리 및 데이터 시각 
+최민석 [@Minseok1014](https://github.com/Minseok1014) 데이터 전처리 및 데이터 시각화
 
 
 ![image](https://github.com/user-attachments/assets/a0f4ac80-eb2e-48f9-a472-1de299eec9eb)
