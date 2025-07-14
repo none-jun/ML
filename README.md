@@ -6,16 +6,20 @@
 이준원 [@none-jun](https://github.com/none-jun) 팀 리더 데이터 전처리 및 머신러닝 모델 개발자 
 
 
+
 <img width="70" height="50" alt="Image" src="https://github.com/user-attachments/assets/f4fba3f1-745c-43d7-afb1-0c78a1bcfd9d" />
 권혜성 [@kwonpatrickstar](https://github.com/kwonpatrickstar) 데이터 전처리 및 프로젝트 진행 상황 정리 
+
 
 
 <img width="70" height="50" alt="Image" src="https://github.com/user-attachments/assets/80ef6cd3-45e3-40c6-8909-0b9902857c2f" />
 노건우 [@asdg441](https://github.com/asdg441) 스트림릿 구현 및 머신러닝 모델 개발자 
 
 
+
 <img width="70" height="50" alt="Image" src="https://github.com/user-attachments/assets/9e5147a7-57f7-402e-b5d9-331a2c67977b" />
 최민석 [@Minseok1014](https://github.com/Minseok1014) 데이터 전처리 및 데이터 시각 
+
 
 
 <img width="70" height="50" alt="Image" src="https://github.com/user-attachments/assets/b3e73cb3-4f0a-40fb-9fb5-ca6663613544" />
@@ -48,7 +52,7 @@
 
 학습자 특성, 활동 로그 등 다양한 데이터를 분석하여 수료 여부(이진 분류)를 예측
 
-여러 머신러닝 알고리즘(예: 로지스틱 회귀, 랜덤 포레스트, XGBoost 등) 적용 및 비교
+여러 머신러닝 알고리즘(예: 랜덤 포레스트, XGBoost, AdaBoost 등) 적용 및 비교
 
 모델 성능 평가는 Recall, Precision, F1-score, 정확도, ROC 곡선 등 기준으로 진행
 
