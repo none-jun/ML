@@ -83,7 +83,45 @@
 
 
 # 5. 수행결과(분석 및 예측 결과)
-![result_img](https://github.com/user-attachments/assets/11eb8766-807f-4256-8a53-43ab57a679c6)
+## 📕 EDA
+# 결측치 확인
+<img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/34e2b0a3-fd36-4797-9170-05ffa5937306" />
+<img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/4f72ad48-019e-441f-b132-5ca0693ecc62" />
+
+# 이탈률과 각 데이터 컬럼 비교
+<img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/5f3c0ce3-6149-4358-9f40-ef53913af9e1" />
+<img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/827599dd-dc93-473e-91ed-cd910b53e29c" />
+<img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/f47fb451-636f-4f39-a4dd-6af3d04d9be3" />
+<img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/64c40ff0-98f2-4d00-a875-2e3941fd711c" />
+<img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/f783b62a-b9ef-4cba-b5f7-d21ca1177baf" />
+<img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/dd6468bf-0dfc-454e-8a11-1e7a1dec78bf" />
+<img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/07db4e8e-7d01-4105-9de2-fd7f897ec322" />
+<img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/f50774fa-2f68-45d1-af52-fae2580b9e10" />
+<img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/627326d3-4168-44d8-86f5-44abf332315c" />
+<img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/007471a2-5b5e-4ad4-a4c9-66322fc32e78" />
+<img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/4b1d566c-38b6-4ef6-9d0b-1c692582cc6d" />
+<img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/fb334289-adb9-4bb6-8353-8843edf027f2" />
+<img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/a4c2b357-3efc-455c-bf15-dd4fd240f7d1" />
+<img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/396fe506-3c7e-4466-973b-b09c241e34dc" />
+<img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/1d663302-7318-4cee-ad8a-03d520fb6e63" />
+<img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/e23b5ed8-0530-4033-82a6-fb26ee8df312" />
+<img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/68060b14-9411-4b37-99b4-783b220e0c04" />
+<img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/965c8af9-2917-42da-b5a7-0dc6334ac8d5" />
+<img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/194f2061-92fe-4fd8-ba05-16e6301d907d" />
+<img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/69be9182-b5f5-4a15-9c9a-35a07c2387f0" />
+<img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/c4bd93e0-daeb-45ec-9024-6e22422ccdd9" />
+<img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/4195275c-7a72-4fb0-bd27-2170209cb764" />
+<img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/61498526-e3f0-41c3-b3d4-374baf468a0e" />
+
+# 모델 ROC 곡선
+<img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/6db4e659-9582-4c92-8205-6271ec153dcf" />
+<img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/50d216cf-903a-413f-bc89-90ddf04bf77f" />
+<img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/97ebb2d3-b6e5-4b40-925e-6833830dfb79" />
+<img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/1ad90c19-e6a2-4963-848c-201391e1b60e" />
+<img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/276d7b57-b360-4f76-a886-43cba353c29d" />
+
+# Streamlit 구현
+<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/11eb8766-807f-4256-8a53-43ab57a679c6" />
 
 
 
