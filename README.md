@@ -4,7 +4,7 @@
 
 ![image](https://github.com/user-attachments/assets/5e7776ec-9008-42ca-ace1-d4c66b7e3fc1)
 <img width="70" height="50" alt="Image" src="https://github.com/user-attachments/assets/47e34638-b550-4bfc-b4ac-dc3ea8251a30" />
-이준원 [@none-jun](https://github.com/none-jun) 팀 리더 데이터 전처리 및 머신러닝 모델 개발자 
+이준원 [@none-jun](https://github.com/none-jun) ##팀 리더 데이터 전처리 및 머신러닝 모델 개발자 
 
 
 ![image](https://github.com/user-attachments/assets/f95ddcc3-dfa5-4a9d-b67b-755e12576056)
@@ -116,6 +116,9 @@
 <img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/c4bd93e0-daeb-45ec-9024-6e22422ccdd9" />
 <img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/4195275c-7a72-4fb0-bd27-2170209cb764" />
 <img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/61498526-e3f0-41c3-b3d4-374baf468a0e" />
+
+### 전처리 방법
+<img width="600" height="255" alt="Image" src="https://github.com/user-attachments/assets/06c6ef7a-94b8-4d6a-85ef-6d010567a17c" />
 
 ### 모델 ROC 곡선
 <img width="200" height="150" alt="Image" src="https://github.com/user-attachments/assets/6db4e659-9582-4c92-8205-6271ec153dcf" />
