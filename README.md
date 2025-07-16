@@ -4,7 +4,7 @@
 
 ![image](https://github.com/user-attachments/assets/5e7776ec-9008-42ca-ace1-d4c66b7e3fc1)
 <img width="70" height="50" alt="Image" src="https://github.com/user-attachments/assets/47e34638-b550-4bfc-b4ac-dc3ea8251a30" />
-이준원 [@none-jun](https://github.com/none-jun) ##팀 리더 데이터 전처리 및 머신러닝 모델 개발자 
+이준원 [@none-jun](https://github.com/none-jun) ### 팀 리더 데이터 전처리 및 머신러닝 모델 개발자 
 
 
 ![image](https://github.com/user-attachments/assets/f95ddcc3-dfa5-4a9d-b67b-755e12576056)
